@@ -1,0 +1,72 @@
+<svg height="1102" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1102" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">12 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ uglify@0.1.5 </tspan>
+<tspan x="10" y="90">  ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="106">  │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="122">  ├─┬ grunt@0.4.5 </tspan>
+<tspan x="10" y="138">  │ ├── async@0.1.22 </tspan>
+<tspan x="10" y="154">  │ ├── coffee-script@1.3.3 </tspan>
+<tspan x="10" y="170">  │ ├── colors@0.6.2 </tspan>
+<tspan x="10" y="186">  │ ├── dateformat@1.0.2-1.2.3 </tspan>
+<tspan x="10" y="202">  │ ├── eventemitter2@0.4.14 </tspan>
+<tspan x="10" y="218">  │ ├── exit@0.1.2 </tspan>
+<tspan x="10" y="234">  │ ├─┬ findup-sync@0.1.3 </tspan>
+<tspan x="10" y="250">  │ │ ├─┬ glob@3.2.11 </tspan>
+<tspan x="10" y="266">  │ │ │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="282">  │ │ │ └── minimatch@0.3.0 </tspan>
+<tspan x="10" y="298">  │ │ └── lodash@2.4.2 </tspan>
+<tspan x="10" y="314">  │ ├── getobject@0.1.0 </tspan>
+<tspan x="10" y="330">  │ ├─┬ glob@3.1.21 </tspan>
+<tspan x="10" y="346">  │ │ ├── graceful-fs@1.2.3 </tspan>
+<tspan x="10" y="362">  │ │ └── inherits@1.0.2 </tspan>
+<tspan x="10" y="378">  │ ├─┬ grunt-legacy-log@0.1.3 </tspan>
+<tspan x="10" y="394">  │ │ ├─┬ grunt-legacy-log-utils@0.1.1 </tspan>
+<tspan x="10" y="410">  │ │ │ └── lodash@2.4.2 </tspan>
+<tspan x="10" y="426">  │ │ └── lodash@2.4.2 </tspan>
+<tspan x="10" y="442">  │ ├─┬ grunt-legacy-util@0.2.0 </tspan>
+<tspan x="10" y="458">  │ │ └── underscore.string@2.2.1 </tspan>
+<tspan x="10" y="474">  │ ├── hooker@0.2.3 </tspan>
+<tspan x="10" y="490">  │ ├── iconv-lite@0.2.11 </tspan>
+<tspan x="10" y="506">  │ ├─┬ js-yaml@2.0.5 </tspan>
+<tspan x="10" y="522">  │ │ ├─┬ argparse@0.1.16 </tspan>
+<tspan x="10" y="538">  │ │ │ ├── underscore@1.7.0 </tspan>
+<tspan x="10" y="554">  │ │ │ └── underscore.string@2.4.0 </tspan>
+<tspan x="10" y="570">  │ │ └── esprima@1.0.4 </tspan>
+<tspan x="10" y="586">  │ ├── lodash@0.9.2 </tspan>
+<tspan x="10" y="602">  │ ├─┬ minimatch@0.2.14 </tspan>
+<tspan x="10" y="618">  │ │ ├── lru-cache@2.7.3 </tspan>
+<tspan x="10" y="634">  │ │ └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="650">  │ ├─┬ nopt@1.0.10 </tspan>
+<tspan x="10" y="666">  │ │ └── abbrev@1.1.0 </tspan>
+<tspan x="10" y="682">  │ ├── rimraf@2.2.8 </tspan>
+<tspan x="10" y="698">  │ ├── underscore.string@2.2.1 </tspan>
+<tspan x="10" y="714">  │ └── which@1.0.9 </tspan>
+<tspan x="10" y="730">  ├── grunt-contrib-clean@0.5.0 </tspan>
+<tspan x="10" y="746">  ├── grunt-contrib-concat@0.3.0 </tspan>
+<tspan x="10" y="762">  ├── grunt-contrib-copy@0.5.0 </tspan>
+<tspan x="10" y="778">  ├─┬ grunt-contrib-cssmin@0.6.1 </tspan>
+<tspan x="10" y="794">  │ ├─┬ clean-css@1.0.12 </tspan>
+<tspan x="10" y="810">  │ │ └─┬ commander@1.3.2 </tspan>
+<tspan x="10" y="826">  │ │   └── keypress@0.1.0 </tspan>
+<tspan x="10" y="842">  │ └─┬ grunt-lib-contrib@0.6.1 </tspan>
+<tspan x="10" y="858">  │   └── zlib-browserify@0.0.1 </tspan>
+<tspan x="10" y="874">  ├─┬ grunt-contrib-uglify@0.2.4 </tspan>
+<tspan x="10" y="890">  │ └─┬ uglify-js@2.4.24 </tspan>
+<tspan x="10" y="906">  │   ├── async@0.2.10 </tspan>
+<tspan x="10" y="922">  │   ├─┬ source-map@0.1.34 </tspan>
+<tspan x="10" y="938">  │   │ └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="954">  │   ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="970">  │   └─┬ yargs@3.5.4 </tspan>
+<tspan x="10" y="986">  │     ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="1002">  │     ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="1018">  │     ├── window-size@0.1.0 </tspan>
+<tspan x="10" y="1034">  │     └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="1050">  ├── grunt-css-url-replace@0.2.7 </tspan>
+<tspan x="10" y="1066">  ├── underscore@1.4.4 </tspan>
+<tspan x="10" y="1082">  └── underscore.string@2.3.3</tspan>
+</text>
+</svg>
